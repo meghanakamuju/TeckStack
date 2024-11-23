@@ -1,0 +1,24 @@
+.container {
+    display: flex;
+    height: 100vh;
+  }
+  
+  .content-container {
+    flex-grow: 1;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    padding-top: 50px;
+  }
+  
+  .formain {
+    color: #0d1e6b;
+    font-size: 30px;
+    padding: 10px;
+    font-weight: bold;
+    margin: 10px;
+    width: 200px;
+    border-radius: 40px;
+  }
+  

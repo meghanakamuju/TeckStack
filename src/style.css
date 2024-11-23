@@ -1,0 +1,20 @@
+.app-container {
+  margin: 0;
+  padding: 20px;
+}
+  .formain {
+    text-align: center;
+    color: #2d2d2d;
+    font-family: "Roboto";
+    font-size: 35px;
+    font-weight: 700;
+  }
+
+  .container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+    max-width: 1200px;
+    margin: 0 auto;
+  }
